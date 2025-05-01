@@ -1,0 +1,36 @@
+# Flutter/Dart related
+/.dart_tool/
+/.build/
+/.flutter-plugins/
+/.flutter-plugins-dependencies
+*.log
+
+# IDE related
+/.idea/
+/.vscode/
+*.iml
+
+# Flutter build output
+/build/
+
+# Android related
+android/.gradle/
+android/app/debug/
+android/app/release/
+android/gradle-wrapper.jar
+android/gradle.properties
+
+# iOS related
+ios/Flutter/Flutter.podspec
+ios/Flutter/Flutter.xcconfig
+ios/Podfile.lock
+ios/Pods/
+
+# macOS, Linux, and Windows builds
+macos/
+linux/
+windows/
+
+# Flutter specific files
+.flutter-versions
+pubspec.lock
